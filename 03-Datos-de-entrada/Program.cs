@@ -10,26 +10,43 @@ namespace _03_Datos_de_entrada
     {
         static void Main(string[] args)
         {
-            string nombre;
-            int edad;
-            double estatura;
+            byte numero1, numero2;
+            string opcion;
 
-            Console.WriteLine("Ingrese su nombre: ");
+            Console.WriteLine("APLICACION DE SUMAS");
 
-            // ReadLine le pide datos al usuario para almacenarlo en una variable //
-            nombre = Console.ReadLine();
+            Console.WriteLine("Digite el prímer número: ");
+            numero1 = Convert.ToByte(Console.ReadLine());
 
-            Console.WriteLine("Ingrese su edad: ");
+            Console.WriteLine("Digite el segundo número: ");
+            numero2 = Convert.ToByte(Console.ReadLine());
 
-            edad = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("¿ Que deseas hacer: ?");
+            Console.WriteLine("(sumar) para sumar ambos números");
+            Console.WriteLine("(restar) para restar ambos números");
+            Console.WriteLine("(multiplicar) para multiplicar ambos números");
+            Console.WriteLine("(dividir) para dividir ambos números");
+            opcion = Console.ReadLine();
 
-            Console.WriteLine("Ingrese su altura: ");
+            if (opcion == "sumar")
+            {
+                Console.WriteLine("La suma es: {0}", numero1 + numero2);
 
-            estatura = Convert.ToDouble(Console.ReadLine());
+            }else if (opcion == "restar")
+            {
+                Console.WriteLine("La resta es: {0}", numero1 - numero2);
 
-            Console.WriteLine("Su nombre es: {0} su su edad es: {1} y su estatura es: {2}", nombre, edad, estatura);
+            }else if (opcion == "multiplicar")
+            {
+                Console.WriteLine("La resta es: {0}", numero1 * numero2);
+
+            }else if (opcion == "division")
+            {
+                Console.WriteLine("La resta es: {0}", numero1 / numero2);
+            }
 
             Console.ReadKey();
+
         }
     }
 }
