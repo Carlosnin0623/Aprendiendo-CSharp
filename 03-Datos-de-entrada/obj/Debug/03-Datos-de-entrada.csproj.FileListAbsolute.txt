@@ -1,0 +1,7 @@
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\bin\Debug\03-Datos-de-entrada.exe.config
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\bin\Debug\03-Datos-de-entrada.exe
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\bin\Debug\03-Datos-de-entrada.pdb
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.csproj.AssemblyReference.cache
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.csproj.CoreCompileInputs.cache
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.exe
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.pdb
