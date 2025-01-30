@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\04-Operadores-relacionales\bin\Debug\04-Operadores-relacionales.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\04-Operadores-relacionales\bin\Debug\04-Operadores-relacionales.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\04-Operadores-relacionales\bin\Debug\04-Operadores-relacionales.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\04-Operadores-relacionales\obj\Debug\04-Operadores-relacionales.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\04-Operadores-relacionales\obj\Debug\04-Operadores-relacionales.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\04-Operadores-relacionales\obj\Debug\04-Operadores-relacionales.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\04-Operadores-relacionales\obj\Debug\04-Operadores-relacionales.pdb
