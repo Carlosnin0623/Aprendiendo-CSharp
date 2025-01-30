@@ -1,0 +1,7 @@
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\02-Operadores-Artimeticos\bin\Debug\02-Operadores-Artimeticos.exe.config
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\02-Operadores-Artimeticos\bin\Debug\02-Operadores-Artimeticos.exe
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\02-Operadores-Artimeticos\bin\Debug\02-Operadores-Artimeticos.pdb
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\02-Operadores-Artimeticos\obj\Debug\02-Operadores-Artimeticos.csproj.AssemblyReference.cache
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\02-Operadores-Artimeticos\obj\Debug\02-Operadores-Artimeticos.csproj.CoreCompileInputs.cache
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\02-Operadores-Artimeticos\obj\Debug\02-Operadores-Artimeticos.exe
+D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\02-Operadores-Artimeticos\obj\Debug\02-Operadores-Artimeticos.pdb
