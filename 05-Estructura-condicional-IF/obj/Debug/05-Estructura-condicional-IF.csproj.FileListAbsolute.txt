@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\05-Estructura-condicional-IF\bin\Debug\05-Estructura-condicional-IF.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\05-Estructura-condicional-IF\bin\Debug\05-Estructura-condicional-IF.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\05-Estructura-condicional-IF\bin\Debug\05-Estructura-condicional-IF.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\05-Estructura-condicional-IF\obj\Debug\05-Estructura-condicional-IF.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\05-Estructura-condicional-IF\obj\Debug\05-Estructura-condicional-IF.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\05-Estructura-condicional-IF\obj\Debug\05-Estructura-condicional-IF.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\05-Estructura-condicional-IF\obj\Debug\05-Estructura-condicional-IF.pdb
