@@ -5,3 +5,10 @@ D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\o
 D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.csproj.CoreCompileInputs.cache
 D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.exe
 D:\Carlos Nin\Escritorio\APRENDIENDO C#\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\03-Datos-de-entrada\bin\Debug\03-Datos-de-entrada.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\03-Datos-de-entrada\bin\Debug\03-Datos-de-entrada.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\03-Datos-de-entrada\bin\Debug\03-Datos-de-entrada.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\03-Datos-de-entrada\obj\Debug\03-Datos-de-entrada.pdb
