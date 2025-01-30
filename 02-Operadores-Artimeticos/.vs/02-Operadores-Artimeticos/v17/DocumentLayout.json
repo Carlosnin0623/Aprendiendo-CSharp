@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Carlos Nin\\Escritorio\\APRENDIENDO C#\\Aprendiendo-CSharp\\01-Variables\\",
+  "WorkspaceRootPath": "D:\\Carlos Nin\\Escritorio\\APRENDIENDO C#\\Aprendiendo-CSharp\\02-Operadores-Artimeticos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97B14CB5-4105-40AF-BE53-BA15F4D6328C}|01-Variables.csproj|d:\\carlos nin\\escritorio\\aprendiendo c#\\aprendiendo-csharp\\01-variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B14CB5-4105-40AF-BE53-BA15F4D6328C}|01-Variables.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66AFD53B-0FBE-4A96-9A48-7F1119BD985A}|02-Operadores-Artimeticos.csproj|d:\\carlos nin\\escritorio\\aprendiendo c#\\aprendiendo-csharp\\02-operadores-artimeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AFD53B-0FBE-4A96-9A48-7F1119BD985A}|02-Operadores-Artimeticos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Carlos Nin\\Escritorio\\APRENDIENDO C#\\Aprendiendo-CSharp\\01-Variables\\Program.cs",
+              "DocumentMoniker": "D:\\Carlos Nin\\Escritorio\\APRENDIENDO C#\\Aprendiendo-CSharp\\02-Operadores-Artimeticos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Carlos Nin\\Escritorio\\APRENDIENDO C#\\Aprendiendo-CSharp\\01-Variables\\Program.cs",
+              "ToolTip": "D:\\Carlos Nin\\Escritorio\\APRENDIENDO C#\\Aprendiendo-CSharp\\02-Operadores-Artimeticos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAQwEIAAAAAAAAA",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCMAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:41:07.281Z",
+              "WhenOpened": "2025-01-30T00:50:52.441Z",
               "EditorCaption": ""
             }
           ]
