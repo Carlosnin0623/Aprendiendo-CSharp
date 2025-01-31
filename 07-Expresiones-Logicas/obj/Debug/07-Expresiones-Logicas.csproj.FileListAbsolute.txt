@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\07-Expresiones-Logicas\bin\Debug\07-Expresiones-Logicas.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\07-Expresiones-Logicas\bin\Debug\07-Expresiones-Logicas.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\07-Expresiones-Logicas\bin\Debug\07-Expresiones-Logicas.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\07-Expresiones-Logicas\obj\Debug\07-Expresiones-Logicas.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\07-Expresiones-Logicas\obj\Debug\07-Expresiones-Logicas.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\07-Expresiones-Logicas\obj\Debug\07-Expresiones-Logicas.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\07-Expresiones-Logicas\obj\Debug\07-Expresiones-Logicas.pdb
