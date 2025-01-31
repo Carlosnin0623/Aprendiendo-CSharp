@@ -18,6 +18,7 @@ namespace _05_Estructura_condicional_IF
              */
 
              int n1, n2, n3;
+             float n4;
 
             Console.WriteLine("########## Bienvenido ###########");
             Console.WriteLine("Este programa devolverá el mayor de 3 números");
@@ -27,6 +28,7 @@ namespace _05_Estructura_condicional_IF
 
             Console.WriteLine("Digite el segundo número: ");
             n2 = Convert.ToInt32(Console.ReadLine());
+            n4 = Convert.ToSingle(Console.ReadLine());
 
             Console.WriteLine("Digite el tercer número: ");
             n3 = Convert.ToInt32(Console.ReadLine());

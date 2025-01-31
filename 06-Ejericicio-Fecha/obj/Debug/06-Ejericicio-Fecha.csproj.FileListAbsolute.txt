@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\06-Ejericicio-Fecha\bin\Debug\06-Ejericicio-Fecha.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\06-Ejericicio-Fecha\bin\Debug\06-Ejericicio-Fecha.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\06-Ejericicio-Fecha\bin\Debug\06-Ejericicio-Fecha.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\06-Ejericicio-Fecha\obj\Debug\06-Ejericicio-Fecha.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\06-Ejericicio-Fecha\obj\Debug\06-Ejericicio-Fecha.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\06-Ejericicio-Fecha\obj\Debug\06-Ejericicio-Fecha.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\06-Ejericicio-Fecha\obj\Debug\06-Ejericicio-Fecha.pdb
