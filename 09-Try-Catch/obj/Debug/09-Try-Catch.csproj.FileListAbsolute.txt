@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\09-Try-Catch\bin\Debug\09-Try-Catch.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\09-Try-Catch\bin\Debug\09-Try-Catch.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\09-Try-Catch\bin\Debug\09-Try-Catch.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\09-Try-Catch\obj\Debug\09-Try-Catch.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\09-Try-Catch\obj\Debug\09-Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\09-Try-Catch\obj\Debug\09-Try-Catch.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\09-Try-Catch\obj\Debug\09-Try-Catch.pdb
