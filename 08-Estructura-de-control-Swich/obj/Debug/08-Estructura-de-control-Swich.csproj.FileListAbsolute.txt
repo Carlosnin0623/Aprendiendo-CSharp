@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\08-Estructura-de-control-Swich\bin\Debug\08-Estructura-de-control-Swich.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\08-Estructura-de-control-Swich\bin\Debug\08-Estructura-de-control-Swich.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\08-Estructura-de-control-Swich\bin\Debug\08-Estructura-de-control-Swich.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\08-Estructura-de-control-Swich\obj\Debug\08-Estructura-de-control-Swich.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\08-Estructura-de-control-Swich\obj\Debug\08-Estructura-de-control-Swich.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\08-Estructura-de-control-Swich\obj\Debug\08-Estructura-de-control-Swich.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\08-Estructura-de-control-Swich\obj\Debug\08-Estructura-de-control-Swich.pdb
