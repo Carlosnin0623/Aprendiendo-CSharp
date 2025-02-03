@@ -5,3 +5,10 @@ C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\10-Bloque-ejercicio-2\obj
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\10-Bloque-ejercicio-2\obj\Debug\10-Bloque-ejercicio-2.csproj.CoreCompileInputs.cache
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\10-Bloque-ejercicio-2\obj\Debug\10-Bloque-ejercicio-2.exe
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\10-Bloque-ejercicio-2\obj\Debug\10-Bloque-ejercicio-2.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\10-Bloque-ejercicio-2\bin\Debug\10-Bloque-ejercicio-2.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\10-Bloque-ejercicio-2\bin\Debug\10-Bloque-ejercicio-2.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\10-Bloque-ejercicio-2\bin\Debug\10-Bloque-ejercicio-2.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\10-Bloque-ejercicio-2\obj\Debug\10-Bloque-ejercicio-2.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\10-Bloque-ejercicio-2\obj\Debug\10-Bloque-ejercicio-2.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\10-Bloque-ejercicio-2\obj\Debug\10-Bloque-ejercicio-2.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\10-Bloque-ejercicio-2\obj\Debug\10-Bloque-ejercicio-2.pdb
