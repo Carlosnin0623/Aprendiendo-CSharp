@@ -10,30 +10,70 @@ namespace _10_Bloque_ejercicio_2
     {
         static void Main(string[] args)
         {
-            float calificacion;
-            byte dias;
+
+            short num1, num2;
+            int resultado;
+            byte opcion;
+
             try
             {
-                Console.WriteLine("Digite la calicación: ");
-                calificacion = Convert.ToSingle(Console.ReadLine());
+                Console.WriteLine("Este programa simula una calculadora: ");
+                Console.WriteLine("Digita el primer número: ");
+                num1 = Convert.ToInt16(Console.ReadLine());
 
-                Console.WriteLine("Digite los dias de asitencia del alumno: ");
-                dias = Convert.ToByte(Console.ReadLine());
+                Console.WriteLine("Digita el segundo número: ");
+                num2 = Convert.ToInt16(Console.ReadLine());
 
-                if (calificacion >= 7.0 && dias >= 20)
+                Console.WriteLine("Muchas Gracias!!! \n");
+                Console.WriteLine("¿Que deseas hacer? ");
+                Console.WriteLine("(1) sumar");
+                Console.WriteLine("(2) restar");
+                Console.WriteLine("(3) Multiplicar");
+                Console.WriteLine("(4) dividir \n");
+                opcion = Convert.ToByte(Console.ReadLine());
+
+                switch (opcion)
                 {
-                    Console.WriteLine("¡Has aprobado el curso!");
+                    case 1:
+                         
+                        resultado = num1 + num2;
+                        Console.WriteLine("El resultado es {0}", resultado);
+                        break;
+
+                    case 2:
+                        resultado = num1 - num2;
+                        Console.WriteLine("El resultado es {0}", resultado);
+                        break;
+
+                    case 3:
+                        resultado = num1 * num2;
+                        Console.WriteLine("El resultado es {0}", resultado);
+                        break;
+
+                    case 4:
+                        resultado = num1 * num2;
+                        Console.WriteLine("El resultado es {0}", resultado);
+                        break;
+
+                    default:
+                        Console.WriteLine("La opcion seleccionada no es válida");
+                        break;
                 }
-                else
-                {
-                    Console.WriteLine("Lo siento, reprobaste el curso");
-                    Console.WriteLine("Ingresaste la calificación {0} y la asistencia {1}", calificacion, dias);
-                }
-            }catch (Exception error)
+
+            }
+            catch (FormatException)
             {
-                Console.WriteLine("Ha ocurrido un error: {0}", error.Message);
+                Console.WriteLine("Lo siento, solo se permiten números enteros....");
+            }catch (OverflowException)
+            {
+                Console.WriteLine("Lo siento ha sobrepasado el número límite, intente con otro número mas pequeño...");
             }
            
+
+
+
+
+
 
             Console.ReadKey();
         }
