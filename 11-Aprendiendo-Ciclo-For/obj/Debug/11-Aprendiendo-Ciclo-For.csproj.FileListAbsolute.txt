@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\11-Aprendiendo-Ciclo-For\bin\Debug\11-Aprendiendo-Ciclo-For.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\11-Aprendiendo-Ciclo-For\bin\Debug\11-Aprendiendo-Ciclo-For.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\11-Aprendiendo-Ciclo-For\bin\Debug\11-Aprendiendo-Ciclo-For.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\11-Aprendiendo-Ciclo-For\obj\Debug\11-Aprendiendo-Ciclo-For.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\11-Aprendiendo-Ciclo-For\obj\Debug\11-Aprendiendo-Ciclo-For.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\11-Aprendiendo-Ciclo-For\obj\Debug\11-Aprendiendo-Ciclo-For.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\11-Aprendiendo-Ciclo-For\obj\Debug\11-Aprendiendo-Ciclo-For.pdb
