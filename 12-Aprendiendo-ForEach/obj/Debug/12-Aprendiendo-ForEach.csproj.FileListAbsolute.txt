@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\12-Aprendiendo-ForEach\bin\Debug\12-Aprendiendo-ForEach.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\12-Aprendiendo-ForEach\bin\Debug\12-Aprendiendo-ForEach.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\12-Aprendiendo-ForEach\bin\Debug\12-Aprendiendo-ForEach.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\12-Aprendiendo-ForEach\obj\Debug\12-Aprendiendo-ForEach.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\12-Aprendiendo-ForEach\obj\Debug\12-Aprendiendo-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\12-Aprendiendo-ForEach\obj\Debug\12-Aprendiendo-ForEach.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\12-Aprendiendo-ForEach\obj\Debug\12-Aprendiendo-ForEach.pdb
