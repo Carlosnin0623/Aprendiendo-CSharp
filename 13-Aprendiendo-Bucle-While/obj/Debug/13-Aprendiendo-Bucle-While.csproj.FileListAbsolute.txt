@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\13-Aprendiendo-Bucle-While\bin\Debug\13-Aprendiendo-Bucle-While.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\13-Aprendiendo-Bucle-While\bin\Debug\13-Aprendiendo-Bucle-While.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\13-Aprendiendo-Bucle-While\bin\Debug\13-Aprendiendo-Bucle-While.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\13-Aprendiendo-Bucle-While\obj\Debug\13-Aprendiendo-Bucle-While.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\13-Aprendiendo-Bucle-While\obj\Debug\13-Aprendiendo-Bucle-While.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\13-Aprendiendo-Bucle-While\obj\Debug\13-Aprendiendo-Bucle-While.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\13-Aprendiendo-Bucle-While\obj\Debug\13-Aprendiendo-Bucle-While.pdb
