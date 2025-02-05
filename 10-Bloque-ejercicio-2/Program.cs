@@ -11,70 +11,35 @@ namespace _10_Bloque_ejercicio_2
         static void Main(string[] args)
         {
 
-            short num1, num2;
-            int resultado;
-            byte opcion;
+            decimal num1, num2, num3;
 
             try
             {
-                Console.WriteLine("Este programa simula una calculadora: ");
-                Console.WriteLine("Digita el primer número: ");
-                num1 = Convert.ToInt16(Console.ReadLine());
+                Console.WriteLine("Introduce el primer número: ");
+                num1 = Convert.ToDecimal(Console.ReadLine());
 
-                Console.WriteLine("Digita el segundo número: ");
-                num2 = Convert.ToInt16(Console.ReadLine());
+                Console.WriteLine("Introduce el segundo número: ");
+                num2 = Convert.ToDecimal(Console.ReadLine());
 
-                Console.WriteLine("Muchas Gracias!!! \n");
-                Console.WriteLine("¿Que deseas hacer? ");
-                Console.WriteLine("(1) sumar");
-                Console.WriteLine("(2) restar");
-                Console.WriteLine("(3) Multiplicar");
-                Console.WriteLine("(4) dividir \n");
-                opcion = Convert.ToByte(Console.ReadLine());
+                num3 = num1 / num2;
 
-                switch (opcion)
-                {
-                    case 1:
-                         
-                        resultado = num1 + num2;
-                        Console.WriteLine("El resultado es {0}", resultado);
-                        break;
+                Console.WriteLine("El resultado de la división entre el número {0} y el número {1} es {2}", num1, num2, num3);
 
-                    case 2:
-                        resultado = num1 - num2;
-                        Console.WriteLine("El resultado es {0}", resultado);
-                        break;
 
-                    case 3:
-                        resultado = num1 * num2;
-                        Console.WriteLine("El resultado es {0}", resultado);
-                        break;
-
-                    case 4:
-                        resultado = num1 * num2;
-                        Console.WriteLine("El resultado es {0}", resultado);
-                        break;
-
-                    default:
-                        Console.WriteLine("La opcion seleccionada no es válida");
-                        break;
-                }
-
-            }
-            catch (FormatException)
+            }catch (FormatException)
             {
-                Console.WriteLine("Lo siento, solo se permiten números enteros....");
+               Console.WriteLine("Lo siento este programa solo permite valores enteros y decimales");
+
             }catch (OverflowException)
             {
-                Console.WriteLine("Lo siento ha sobrepasado el número límite, intente con otro número mas pequeño...");
+               Console.WriteLine("Lo siento ingrese un valor más pequeño");
             }
-           
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("No se puede dividir por cero");
+            } 
 
-
-
-
-
-
+            
             Console.ReadKey();
         }
         
