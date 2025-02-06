@@ -14,7 +14,7 @@ namespace _13_Aprendiendo_Bucle_While
             /* 
              *
              *  Ciclo While: Este bucle es ideal cuando no sabemos la cantidad de elementos
-             *  que vamos a recorrer como por ejemplo los registros de una base de datos
+             *  que vamos a recorrer como por ejemplo los registros de una tabla de una base de datos
              *  
              *  while (condicion){
              *    // Codigo
