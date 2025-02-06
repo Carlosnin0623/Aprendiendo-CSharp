@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\16-Ejercicio-Con-Ciclos\bin\Debug\16-Ejercicio-Con-Ciclos.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\16-Ejercicio-Con-Ciclos\bin\Debug\16-Ejercicio-Con-Ciclos.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\16-Ejercicio-Con-Ciclos\bin\Debug\16-Ejercicio-Con-Ciclos.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\16-Ejercicio-Con-Ciclos\obj\Debug\16-Ejercicio-Con-Ciclos.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\16-Ejercicio-Con-Ciclos\obj\Debug\16-Ejercicio-Con-Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\16-Ejercicio-Con-Ciclos\obj\Debug\16-Ejercicio-Con-Ciclos.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\16-Ejercicio-Con-Ciclos\obj\Debug\16-Ejercicio-Con-Ciclos.pdb
