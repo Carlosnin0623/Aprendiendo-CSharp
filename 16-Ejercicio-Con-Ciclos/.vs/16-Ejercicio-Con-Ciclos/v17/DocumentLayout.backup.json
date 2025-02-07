@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\14-Aprendiendo-Bucle-DoWhile\\",
+  "WorkspaceRootPath": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\16-Ejercicio-Con-Ciclos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E6C0859-B08C-4D36-B25F-D153E2F51BE2}|14-Aprendiendo-Bucle-DoWhile.csproj|c:\\users\\loteka\\documents\\github\\aprendiendo-csharp\\14-aprendiendo-bucle-dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E6C0859-B08C-4D36-B25F-D153E2F51BE2}|14-Aprendiendo-Bucle-DoWhile.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{471A74AD-C429-4664-BEC6-7A6D83D74301}|16-Ejercicio-Con-Ciclos.csproj|c:\\users\\loteka\\documents\\github\\aprendiendo-csharp\\16-ejercicio-con-ciclos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471A74AD-C429-4664-BEC6-7A6D83D74301}|16-Ejercicio-Con-Ciclos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\14-Aprendiendo-Bucle-DoWhile\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\16-Ejercicio-Con-Ciclos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\14-Aprendiendo-Bucle-DoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\16-Ejercicio-Con-Ciclos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowF0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T12:49:18.226Z",
+              "WhenOpened": "2025-02-06T18:44:01.705Z",
               "EditorCaption": ""
             }
           ]

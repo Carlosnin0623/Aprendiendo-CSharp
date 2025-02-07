@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2E6C0859-B08C-4D36-B25F-D153E2F51BE2}</ProjectGuid>
+    <ProjectGuid>{471A74AD-C429-4664-BEC6-7A6D83D74301}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_14_Aprendiendo_Bucle_DoWhile</RootNamespace>
-    <AssemblyName>14-Aprendiendo-Bucle-DoWhile</AssemblyName>
+    <RootNamespace>_16_Ejercicio_Con_Ciclos</RootNamespace>
+    <AssemblyName>16-Ejercicio-Con-Ciclos</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
