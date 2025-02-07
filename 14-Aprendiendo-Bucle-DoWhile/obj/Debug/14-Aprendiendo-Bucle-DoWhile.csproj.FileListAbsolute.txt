@@ -1,7 +1,0 @@
-C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\14-Aprendiendo-Bucle-DoWhile\bin\Debug\14-Aprendiendo-Bucle-DoWhile.exe.config
-C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\14-Aprendiendo-Bucle-DoWhile\bin\Debug\14-Aprendiendo-Bucle-DoWhile.exe
-C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\14-Aprendiendo-Bucle-DoWhile\bin\Debug\14-Aprendiendo-Bucle-DoWhile.pdb
-C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\14-Aprendiendo-Bucle-DoWhile\obj\Debug\14-Aprendiendo-Bucle-DoWhile.csproj.AssemblyReference.cache
-C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\14-Aprendiendo-Bucle-DoWhile\obj\Debug\14-Aprendiendo-Bucle-DoWhile.csproj.CoreCompileInputs.cache
-C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\14-Aprendiendo-Bucle-DoWhile\obj\Debug\14-Aprendiendo-Bucle-DoWhile.exe
-C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\14-Aprendiendo-Bucle-DoWhile\obj\Debug\14-Aprendiendo-Bucle-DoWhile.pdb
