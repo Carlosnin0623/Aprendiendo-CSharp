@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace _17_Bloque_de_ejercicios_ciclos
@@ -10,32 +11,22 @@ namespace _17_Bloque_de_ejercicios_ciclos
     {
         static void Main(string[] args)
         {
-            byte num;
-            int acumulador = 0;
-            string respuesta;
+            Console.WriteLine("Digita un número: ");
+            byte numero = Convert.ToByte(Console.ReadLine());
 
-            try
+
+            for(byte i = 1; i <= 20; i++)
             {
-
-                do
+                if(i == numero)
                 {
-                    Console.WriteLine("Digite el número: ");
-                    num = Convert.ToByte(Console.ReadLine());
-
-                    acumulador += Convert.ToInt32(num);
-
-                    Console.WriteLine("Esto es lo que llevas acumulad: {0}", acumulador);
-
-                    Console.WriteLine("Deseas salir?");
-                    respuesta = Console.ReadLine();
-
-                } while (respuesta.ToLower() != "si");
-
-            }catch (OverflowException)
-            {
-                Console.WriteLine("Ha ocurrido un error, el número ingresado es muy alto o muy bajo");
+                    break;
+                }
+                else
+                {
+                    Thread.Sleep(1000);
+                    Console.WriteLine("{0}", i);
+                }
             }
-              
 
             Console.ReadKey();
 
