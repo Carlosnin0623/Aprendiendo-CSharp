@@ -5,3 +5,10 @@ C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\17-Bloque-de-ejercicios-c
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\obj\Debug\17-Bloque-de-ejercicios-ciclos.csproj.CoreCompileInputs.cache
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\obj\Debug\17-Bloque-de-ejercicios-ciclos.exe
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\obj\Debug\17-Bloque-de-ejercicios-ciclos.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\bin\Debug\17-Bloque-de-ejercicios-ciclos.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\bin\Debug\17-Bloque-de-ejercicios-ciclos.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\bin\Debug\17-Bloque-de-ejercicios-ciclos.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\obj\Debug\17-Bloque-de-ejercicios-ciclos.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\obj\Debug\17-Bloque-de-ejercicios-ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\obj\Debug\17-Bloque-de-ejercicios-ciclos.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\17-Bloque-de-ejercicios-ciclos\obj\Debug\17-Bloque-de-ejercicios-ciclos.pdb
