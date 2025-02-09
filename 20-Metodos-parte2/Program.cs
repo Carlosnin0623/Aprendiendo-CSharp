@@ -11,7 +11,6 @@ namespace _20_Metodos_parte2
         static void Main(string[] args)
         {
             byte opcion;
-            float resultado;
 
             Console.WriteLine("Escoge una de estas opciones ");
             Console.WriteLine("1. Sumar");
@@ -32,16 +31,38 @@ namespace _20_Metodos_parte2
                 }
                 else if (opcion == 2)
                 {
+                    float resultado;
                     resultado = Restar();
                     Console.WriteLine("El resultado de la resta es: {0}", resultado);
                 }
                 else if (opcion == 3)
                 {
-                    
+                    float numero1;
+                    float numero2;
+
+                    Console.WriteLine("Digite el primer númeero");
+                    numero1 = Convert.ToSingle(Console.ReadLine());
+
+                    Console.WriteLine("Digite el segundo númeero");
+                    numero2 = Convert.ToSingle(Console.ReadLine());
+
+                    Multiplicacion(numero1, numero2);
                 }
                 else if (opcion == 4)
                 {
-                    
+                    float numero1;
+                    float numero2;
+                    float resultado;
+
+                    Console.WriteLine("Digite el primer númeero");
+                    numero1 = Convert.ToSingle(Console.ReadLine());
+
+                    Console.WriteLine("Digite el segundo númeero");
+                    numero2 = Convert.ToSingle(Console.ReadLine());
+
+                    resultado =  Division(numero1, numero2);
+
+                    Console.WriteLine("El resultado de la división es {0}", resultado);
                 }
                 else
                 {
@@ -102,6 +123,35 @@ namespace _20_Metodos_parte2
             resultado = numero1 - numero2;
 
             return resultado;
+        }
+
+        /* Metodos o funciones con parametros */
+        static void Multiplicacion(float numero1, float numero2)
+        {
+            float resultado;
+
+            resultado = numero1 * numero2;
+
+            Console.WriteLine("El resultado de la multiplicación es: {0}", resultado);
+
+        }
+
+
+        static float Division(float numero1, float numero2)
+        {
+            float resultado;
+
+            if (numero2 == 0)
+            {
+                Console.WriteLine("Lo siento no se puede dividir por 0");
+                resultado = 0.0f;
+                return resultado;
+            }
+            else
+            {
+               resultado = numero1 / numero2;
+                return resultado;
+            }
         }
     }
 }
