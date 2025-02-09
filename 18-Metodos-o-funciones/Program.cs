@@ -20,6 +20,15 @@ namespace _18_Metodos_o_funciones
                sea necesario y entonces el codigo que se encuentra en su interior se 
                va a ejecutar. Una vez que la función termina de ejecutarse el programa
                continua en la sentencia siguiente donde fue llamada.
+
+
+               Tipos de metodos o funciones 
+
+               Ejecutan solo codigo
+               rebiben parametros
+               regresan valores
+               reciben valores y parametros
+
              
              */
 
