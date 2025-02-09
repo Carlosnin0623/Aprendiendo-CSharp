@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\18-Metodos-o-funciones\bin\Debug\18-Metodos-o-funciones.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\18-Metodos-o-funciones\bin\Debug\18-Metodos-o-funciones.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\18-Metodos-o-funciones\bin\Debug\18-Metodos-o-funciones.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\18-Metodos-o-funciones\obj\Debug\18-Metodos-o-funciones.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\18-Metodos-o-funciones\obj\Debug\18-Metodos-o-funciones.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\18-Metodos-o-funciones\obj\Debug\18-Metodos-o-funciones.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\18-Metodos-o-funciones\obj\Debug\18-Metodos-o-funciones.pdb

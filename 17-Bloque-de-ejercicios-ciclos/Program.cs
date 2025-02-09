@@ -19,7 +19,9 @@ namespace _17_Bloque_de_ejercicios_ciclos
             {
                 if(i == numero)
                 {
-                    break;
+                    Console.WriteLine("Número omitido");
+                    continue;
+                    
                 }
                 else
                 {
