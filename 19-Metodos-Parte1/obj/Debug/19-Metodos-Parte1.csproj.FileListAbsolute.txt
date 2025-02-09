@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\19-Metodos-Parte1\bin\Debug\19-Metodos-Parte1.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\19-Metodos-Parte1\bin\Debug\19-Metodos-Parte1.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\19-Metodos-Parte1\bin\Debug\19-Metodos-Parte1.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\19-Metodos-Parte1\obj\Debug\19-Metodos-Parte1.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\19-Metodos-Parte1\obj\Debug\19-Metodos-Parte1.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\19-Metodos-Parte1\obj\Debug\19-Metodos-Parte1.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\19-Metodos-Parte1\obj\Debug\19-Metodos-Parte1.pdb
