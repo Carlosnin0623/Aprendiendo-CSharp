@@ -1,0 +1,7 @@
+C:\Users\Loteka\Desktop\Eliminar duplicados\22-Calculadora-con-metodos\bin\Debug\22-Calculadora-con-metodos.exe.config
+C:\Users\Loteka\Desktop\Eliminar duplicados\22-Calculadora-con-metodos\bin\Debug\22-Calculadora-con-metodos.exe
+C:\Users\Loteka\Desktop\Eliminar duplicados\22-Calculadora-con-metodos\bin\Debug\22-Calculadora-con-metodos.pdb
+C:\Users\Loteka\Desktop\Eliminar duplicados\22-Calculadora-con-metodos\obj\Debug\22-Calculadora-con-metodos.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Eliminar duplicados\22-Calculadora-con-metodos\obj\Debug\22-Calculadora-con-metodos.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Eliminar duplicados\22-Calculadora-con-metodos\obj\Debug\22-Calculadora-con-metodos.exe
+C:\Users\Loteka\Desktop\Eliminar duplicados\22-Calculadora-con-metodos\obj\Debug\22-Calculadora-con-metodos.pdb
