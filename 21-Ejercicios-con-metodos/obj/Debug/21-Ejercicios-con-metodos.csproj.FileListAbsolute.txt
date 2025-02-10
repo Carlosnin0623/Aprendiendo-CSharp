@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\21-Ejercicios-con-metodos\bin\Debug\21-Ejercicios-con-metodos.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\21-Ejercicios-con-metodos\bin\Debug\21-Ejercicios-con-metodos.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\21-Ejercicios-con-metodos\bin\Debug\21-Ejercicios-con-metodos.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\21-Ejercicios-con-metodos\obj\Debug\21-Ejercicios-con-metodos.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\21-Ejercicios-con-metodos\obj\Debug\21-Ejercicios-con-metodos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\21-Ejercicios-con-metodos\obj\Debug\21-Ejercicios-con-metodos.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\21-Ejercicios-con-metodos\obj\Debug\21-Ejercicios-con-metodos.pdb
