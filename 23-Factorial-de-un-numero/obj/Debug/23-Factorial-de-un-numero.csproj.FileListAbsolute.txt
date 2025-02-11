@@ -1,0 +1,7 @@
+C:\Users\Loteka\Desktop\Eliminar duplicados\23-Factorial-de-un-numero\bin\Debug\23-Factorial-de-un-numero.exe.config
+C:\Users\Loteka\Desktop\Eliminar duplicados\23-Factorial-de-un-numero\bin\Debug\23-Factorial-de-un-numero.exe
+C:\Users\Loteka\Desktop\Eliminar duplicados\23-Factorial-de-un-numero\bin\Debug\23-Factorial-de-un-numero.pdb
+C:\Users\Loteka\Desktop\Eliminar duplicados\23-Factorial-de-un-numero\obj\Debug\23-Factorial-de-un-numero.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Eliminar duplicados\23-Factorial-de-un-numero\obj\Debug\23-Factorial-de-un-numero.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Eliminar duplicados\23-Factorial-de-un-numero\obj\Debug\23-Factorial-de-un-numero.exe
+C:\Users\Loteka\Desktop\Eliminar duplicados\23-Factorial-de-un-numero\obj\Debug\23-Factorial-de-un-numero.pdb
