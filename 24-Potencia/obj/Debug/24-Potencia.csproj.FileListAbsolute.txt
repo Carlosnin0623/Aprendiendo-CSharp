@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\24-Potencia\bin\Debug\24-Potencia.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\24-Potencia\bin\Debug\24-Potencia.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\24-Potencia\bin\Debug\24-Potencia.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\24-Potencia\obj\Debug\24-Potencia.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\24-Potencia\obj\Debug\24-Potencia.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\24-Potencia\obj\Debug\24-Potencia.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\24-Potencia\obj\Debug\24-Potencia.pdb
