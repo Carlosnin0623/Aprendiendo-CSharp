@@ -50,37 +50,58 @@ namespace _25_Array
                 
              */
 
-            int cantidad, n;
+            byte cantidad;
+            float promedio;
+            float suma = 0;
+            float min = 10.0f;
+            float max = 0.0f;
 
-            float suma = 0.0f;
+            Console.WriteLine("Digita la cantidad de estudiantes ");
+            cantidad = Convert.ToByte(Console.ReadLine());
 
-            float promedio = 0.0f;
+            float[] calificacion = new float[cantidad];
 
-         //   float minima = 10.0f;
-
-         //   float maxima = 0.0f;
-
-            Console.WriteLine("Ingresa calificaciones de los alumnos");
-            cantidad = Convert.ToInt32(Console.ReadLine());
-
-            float[] cali = new float[cantidad];
-
-            for(n = 0; n < cantidad; n++)
+            for (int i = 0; i < cantidad; i++)
             {
-                Console.WriteLine("Ingrese calificacion");
-                cali[n] = Convert.ToSingle(Console.ReadLine());
-
+                Console.WriteLine("Digita la calificación");
+                calificacion[i] = Convert.ToSingle(Console.ReadLine());
             }
 
-            for(n = 0; n < cantidad; n++)
+            for(int i = 0; i < calificacion.Length; i++)
             {
-                suma += cali[n];
+                suma += calificacion[i];
             }
 
             promedio = suma / cantidad;
 
+            Console.WriteLine("El promedio fue: {0}", promedio);
+
+          
+            for(int i = 0; i < calificacion.Length; i++)
+            {
+                if (calificacion[i] <  min)
+                {
+                    min = calificacion[i];
+
+                }
+                
+            }
 
 
+            for (int i = 0; i < calificacion.Length; i++)
+            {
+                if (calificacion[i] > max)
+                {
+                    max = calificacion[i];
+
+                }
+
+            }
+
+            Console.WriteLine("La calificacion mas baja es: {0}", min);
+            Console.WriteLine("La calificacion mas alta es: {0}", max);
+
+            Console.ReadKey();
 
         }
     }

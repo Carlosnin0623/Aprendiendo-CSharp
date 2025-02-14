@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\25-Array\bin\Debug\25-Array.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\25-Array\bin\Debug\25-Array.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\25-Array\bin\Debug\25-Array.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\25-Array\obj\Debug\25-Array.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\25-Array\obj\Debug\25-Array.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\25-Array\obj\Debug\25-Array.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\25-Array\obj\Debug\25-Array.pdb
