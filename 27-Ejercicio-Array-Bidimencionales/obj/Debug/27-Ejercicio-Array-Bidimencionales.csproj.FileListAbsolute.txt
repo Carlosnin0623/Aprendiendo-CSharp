@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\27-Ejercicio-Array-Bidimencionales\bin\Debug\27-Ejercicio-Array-Bidimencionales.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\27-Ejercicio-Array-Bidimencionales\bin\Debug\27-Ejercicio-Array-Bidimencionales.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\27-Ejercicio-Array-Bidimencionales\bin\Debug\27-Ejercicio-Array-Bidimencionales.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\27-Ejercicio-Array-Bidimencionales\obj\Debug\27-Ejercicio-Array-Bidimencionales.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\27-Ejercicio-Array-Bidimencionales\obj\Debug\27-Ejercicio-Array-Bidimencionales.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\27-Ejercicio-Array-Bidimencionales\obj\Debug\27-Ejercicio-Array-Bidimencionales.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\27-Ejercicio-Array-Bidimencionales\obj\Debug\27-Ejercicio-Array-Bidimencionales.pdb
