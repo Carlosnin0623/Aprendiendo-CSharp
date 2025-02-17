@@ -63,8 +63,9 @@ namespace Arrays_Bidimencionales
             Console.WriteLine("Ingrese la cantidad de alumnos");
             cantidad = Convert.ToInt32(Console.ReadLine());
 
-            // Salones = Columna 
-            // Cantidad = filas
+            // Salones = Filas 
+            // Cantidad = Columnas     EL primer argumento siempre es la fila
+             //                        El segundo argumento son las columnas
 
             float[,] cali = new float[salones, cantidad];
 
