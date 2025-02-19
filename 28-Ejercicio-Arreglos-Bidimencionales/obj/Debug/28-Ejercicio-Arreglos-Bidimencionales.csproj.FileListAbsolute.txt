@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\28-Ejercicio-Arreglos-Bidimencionales\bin\Debug\28-Ejercicio-Arreglos-Bidimencionales.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\28-Ejercicio-Arreglos-Bidimencionales\bin\Debug\28-Ejercicio-Arreglos-Bidimencionales.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\28-Ejercicio-Arreglos-Bidimencionales\bin\Debug\28-Ejercicio-Arreglos-Bidimencionales.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\28-Ejercicio-Arreglos-Bidimencionales\obj\Debug\28-Ejercicio-Arreglos-Bidimencionales.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\28-Ejercicio-Arreglos-Bidimencionales\obj\Debug\28-Ejercicio-Arreglos-Bidimencionales.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\28-Ejercicio-Arreglos-Bidimencionales\obj\Debug\28-Ejercicio-Arreglos-Bidimencionales.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\28-Ejercicio-Arreglos-Bidimencionales\obj\Debug\28-Ejercicio-Arreglos-Bidimencionales.pdb
