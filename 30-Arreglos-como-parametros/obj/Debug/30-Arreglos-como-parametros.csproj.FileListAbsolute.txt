@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\30-Arreglos-como-parametros\bin\Debug\30-Arreglos-como-parametros.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\30-Arreglos-como-parametros\bin\Debug\30-Arreglos-como-parametros.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\30-Arreglos-como-parametros\bin\Debug\30-Arreglos-como-parametros.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\30-Arreglos-como-parametros\obj\Debug\30-Arreglos-como-parametros.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\30-Arreglos-como-parametros\obj\Debug\30-Arreglos-como-parametros.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\30-Arreglos-como-parametros\obj\Debug\30-Arreglos-como-parametros.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\30-Arreglos-como-parametros\obj\Debug\30-Arreglos-como-parametros.pdb
