@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\31-Ejercicio1-Arreglos-Unidimencionales\bin\Debug\31-Ejercicio1-Arreglos-Unidimencionales.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\31-Ejercicio1-Arreglos-Unidimencionales\bin\Debug\31-Ejercicio1-Arreglos-Unidimencionales.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\31-Ejercicio1-Arreglos-Unidimencionales\bin\Debug\31-Ejercicio1-Arreglos-Unidimencionales.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\31-Ejercicio1-Arreglos-Unidimencionales\obj\Debug\31-Ejercicio1-Arreglos-Unidimencionales.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\31-Ejercicio1-Arreglos-Unidimencionales\obj\Debug\31-Ejercicio1-Arreglos-Unidimencionales.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\31-Ejercicio1-Arreglos-Unidimencionales\obj\Debug\31-Ejercicio1-Arreglos-Unidimencionales.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\31-Ejercicio1-Arreglos-Unidimencionales\obj\Debug\31-Ejercicio1-Arreglos-Unidimencionales.pdb
