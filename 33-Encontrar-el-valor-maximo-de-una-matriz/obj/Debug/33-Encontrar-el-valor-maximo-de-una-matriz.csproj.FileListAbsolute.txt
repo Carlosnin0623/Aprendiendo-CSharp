@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\33-Encontrar-el-valor-maximo-de-una-matriz\bin\Debug\33-Encontrar-el-valor-maximo-de-una-matriz.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\33-Encontrar-el-valor-maximo-de-una-matriz\bin\Debug\33-Encontrar-el-valor-maximo-de-una-matriz.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\33-Encontrar-el-valor-maximo-de-una-matriz\bin\Debug\33-Encontrar-el-valor-maximo-de-una-matriz.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\33-Encontrar-el-valor-maximo-de-una-matriz\obj\Debug\33-Encontrar-el-valor-maximo-de-una-matriz.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\33-Encontrar-el-valor-maximo-de-una-matriz\obj\Debug\33-Encontrar-el-valor-maximo-de-una-matriz.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\33-Encontrar-el-valor-maximo-de-una-matriz\obj\Debug\33-Encontrar-el-valor-maximo-de-una-matriz.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\33-Encontrar-el-valor-maximo-de-una-matriz\obj\Debug\33-Encontrar-el-valor-maximo-de-una-matriz.pdb
