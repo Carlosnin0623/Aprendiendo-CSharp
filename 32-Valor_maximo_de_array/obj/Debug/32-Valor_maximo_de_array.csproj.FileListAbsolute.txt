@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\32-Valor_maximo_de_array\bin\Debug\32-Valor_maximo_de_array.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\32-Valor_maximo_de_array\bin\Debug\32-Valor_maximo_de_array.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\32-Valor_maximo_de_array\bin\Debug\32-Valor_maximo_de_array.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\32-Valor_maximo_de_array\obj\Debug\32-Valor_maximo_de_array.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\32-Valor_maximo_de_array\obj\Debug\32-Valor_maximo_de_array.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\32-Valor_maximo_de_array\obj\Debug\32-Valor_maximo_de_array.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\32-Valor_maximo_de_array\obj\Debug\32-Valor_maximo_de_array.pdb
