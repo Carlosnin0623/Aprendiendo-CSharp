@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33-Bidimencional-Suma-de-una-matriz", "33-Bidimencional-Suma-de-una-matriz.csproj", "{7E965CB2-B575-47D2-B070-4FFF6F0461DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E965CB2-B575-47D2-B070-4FFF6F0461DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E965CB2-B575-47D2-B070-4FFF6F0461DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E965CB2-B575-47D2-B070-4FFF6F0461DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E965CB2-B575-47D2-B070-4FFF6F0461DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
