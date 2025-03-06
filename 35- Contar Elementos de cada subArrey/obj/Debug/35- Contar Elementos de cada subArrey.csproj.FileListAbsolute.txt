@@ -1,0 +1,7 @@
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\35- Contar Elementos de cada subArrey\bin\Debug\35- Contar Elementos de cada subArrey.exe.config
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\35- Contar Elementos de cada subArrey\bin\Debug\35- Contar Elementos de cada subArrey.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\35- Contar Elementos de cada subArrey\bin\Debug\35- Contar Elementos de cada subArrey.pdb
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\35- Contar Elementos de cada subArrey\obj\Debug\35- Contar Elementos de cada subArrey.csproj.AssemblyReference.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\35- Contar Elementos de cada subArrey\obj\Debug\35- Contar Elementos de cada subArrey.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\35- Contar Elementos de cada subArrey\obj\Debug\35- Contar Elementos de cada subArrey.exe
+C:\Users\Loteka\Documents\GitHub\Aprendiendo-CSharp\35- Contar Elementos de cada subArrey\obj\Debug\35- Contar Elementos de cada subArrey.pdb
