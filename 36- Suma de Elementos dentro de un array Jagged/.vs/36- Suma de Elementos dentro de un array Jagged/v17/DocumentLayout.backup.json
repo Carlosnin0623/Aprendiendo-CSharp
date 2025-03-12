@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\35- Contar Elementos de cada subArrey\\",
+  "WorkspaceRootPath": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\36- Suma de Elementos dentro de un array Jagged\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79586AE9-70D8-4A36-9B8E-9CAF666B4098}|35- Contar Elementos de cada subArrey.csproj|c:\\users\\loteka\\documents\\github\\aprendiendo-csharp\\35- contar elementos de cada subarrey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79586AE9-70D8-4A36-9B8E-9CAF666B4098}|35- Contar Elementos de cada subArrey.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E4E5124-A821-42F7-8B9B-CE9F8F88088D}|36- Suma de Elementos dentro de un array Jagged.csproj|c:\\users\\loteka\\documents\\github\\aprendiendo-csharp\\36- suma de elementos dentro de un array jagged\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4E5124-A821-42F7-8B9B-CE9F8F88088D}|36- Suma de Elementos dentro de un array Jagged.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\35- Contar Elementos de cada subArrey\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\36- Suma de Elementos dentro de un array Jagged\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\35- Contar Elementos de cada subArrey\\Program.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Documents\\GitHub\\Aprendiendo-CSharp\\36- Suma de Elementos dentro de un array Jagged\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T19:13:01.918Z",
+              "WhenOpened": "2025-03-12T13:01:33.269Z",
               "EditorCaption": ""
             }
           ]
