@@ -1,0 +1,7 @@
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\40-Ejercicio ArrayList\bin\Debug\40-Ejercicio ArrayList.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\40-Ejercicio ArrayList\bin\Debug\40-Ejercicio ArrayList.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\40-Ejercicio ArrayList\bin\Debug\40-Ejercicio ArrayList.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\40-Ejercicio ArrayList\obj\Debug\40-Ejercicio ArrayList.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\40-Ejercicio ArrayList\obj\Debug\40-Ejercicio ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\40-Ejercicio ArrayList\obj\Debug\40-Ejercicio ArrayList.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-CSharp\40-Ejercicio ArrayList\obj\Debug\40-Ejercicio ArrayList.pdb
