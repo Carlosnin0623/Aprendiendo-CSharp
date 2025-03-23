@@ -11,7 +11,7 @@ namespace _40_Ejercicio_ArrayList
     {
         static void Main(string[] args)
         {
-            int indice, cantidad;
+            int indice, cantidad, capacidad;
 
 
             ArrayList datos = new ArrayList();
@@ -47,7 +47,16 @@ namespace _40_Ejercicio_ArrayList
             // Obtener cantidad de elementos count
             cantidad = datos.Count;
 
+
+
             Console.WriteLine("Esta es la cantidad de elementos dentro del la lista {0}", cantidad);
+            Console.WriteLine("\n---------------");
+
+            // Obtener el tamaño que ocupa la el ArrayList con Capacity
+
+            capacidad = datos.Capacity;
+
+            Console.WriteLine("La cantidad de elementos que puede poseer el ArrayList es: {0}", capacidad);
             Console.WriteLine("\n---------------");
 
             // Insertar elementos 
