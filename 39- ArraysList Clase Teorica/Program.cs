@@ -14,7 +14,7 @@ namespace _39__ArraysList_Clase_Teorica
              *  Las colecciones son estructuras de datos que nos permiten guardar en
              *  su interior cualquier tipo de información. Existen diferentes tipos 
              *  de colecciones y la forma en como se guarda, se accede y se elimina
-             *  la información en cada una de ellas.
+             *  la información  es diferente en cada una de ellas.
              *  
              *  Tipos de Colecciones:
              *  
@@ -63,7 +63,7 @@ namespace _39__ArraysList_Clase_Teorica
              *    
              *    datos.Add(7) = Dato tipo entero
              *    
-             *    datos.Add(7) = Guardamos una variable
+             *    datos.Add(n) = Guardamos una variable
              *      
              *    datos.Add("Hola") = Guardar una cadena
              *  
@@ -91,7 +91,22 @@ namespace _39__ArraysList_Clase_Teorica
              *    datos.insert(2,5) Asi inserto el valor 5 en el indice 2 y entonces el array
              *    se expadira y el valor que existia en esa posicion ahora estara en el indice 3
              *    
+             *    Eliminar un elemento: Conocer el indice del elemento a eliminar.
              *    
+             *    El metodo que se encargar de llevar a cabo la eliminacion es RemoveAt()
+             *    
+             *    Por ejemplo si queremos eliminar el elemento que se encuentra en el indice 7,
+             *    podemos hacer lo siquiente:  datos.RemoveAt(7)
+             *    
+             *    Encontrar un elemento dentro de un ArrayList
+             *    
+             *    IndexOf(): Es el metodo para buscar elementos dentro de un ArrayList
+             *    
+             *    Regresa un valor entero y si el elemento no se encuentra en el ArrayList, entonces devuelve
+             *    el valor de -1
+             *    
+             *    Este metodo nos retornara el indice si encuentra el elemento dentro
+             *    del array, si no lo encuentra retornara un -1
              *    
              *    
              */
